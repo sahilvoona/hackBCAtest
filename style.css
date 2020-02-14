@@ -36,7 +36,7 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
-    
+
     background-size: cover; /* Add this line */
     background-position: center center; /* Add this line */
     background-repeat: no-repeat; /* Add this line */
